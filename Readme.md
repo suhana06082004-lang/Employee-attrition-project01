@@ -132,9 +132,6 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-Live App Link:
-
-👉 https://diiiyyaa-employee-attrition-prediction-app-822m9i.streamlit.app/
 
 📊 Key Features
 
@@ -179,6 +176,7 @@ Joblib
 
 Kumari Suhana
 GitHub: https://github.com/SUHANA
+
 
 
 
