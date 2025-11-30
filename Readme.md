@@ -177,8 +177,9 @@ Joblib
 
 👩‍💻 Author
 
-Diya Diwakar
-GitHub: https://github.com/diiiyyaa
+Kumari Suhana
+GitHub: https://github.com/SUHANA
+
 
 
 
